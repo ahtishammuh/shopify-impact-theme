@@ -309,7 +309,7 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "100%",
+            "title": "V-Shape DEFINED",
             "subheading": "Showcase a benefit of your product",
             "content": "",
             "button_text": "",
@@ -323,9 +323,9 @@
         "1664424181b38582d5-0"
       ],
       "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
+        "full_width": false,
+        "stack_mobile": false,
+        "text_alignment": "start",
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
