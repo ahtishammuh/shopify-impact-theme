@@ -257,6 +257,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
@@ -277,7 +278,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -285,8 +286,8 @@
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
+        "subheading": "Fresh Cuts. Bold Fits. Undeniably Suzi.",
+        "title": "New Arrivals",
         "content": "",
         "link_url": "",
         "link_text": "View all",
