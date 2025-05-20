@@ -309,8 +309,8 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "V-Shape DEFINED",
-            "subheading": "Showcase a benefit of your product",
+            "title": "SUZI SPEAKS",
+            "subheading": "Even when you don’t.",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -325,7 +325,7 @@
       "settings": {
         "full_width": false,
         "stack_mobile": false,
-        "text_alignment": "start",
+        "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
