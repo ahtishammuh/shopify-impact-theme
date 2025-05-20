@@ -283,7 +283,7 @@
           "slim-lines-bamboo-thong",
           "bamboo-thong-panty"
         ],
-        "full_width": true,
+        "full_width": false,
         "stack_products": false,
         "show_progress_bar": false,
         "products_count": 2,
