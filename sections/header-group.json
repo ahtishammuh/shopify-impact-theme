@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Free Shipping for Orders above $50",
+            "text": "Enjoy free shipping on orders above 50 USD",
             "url": ""
           }
         }
@@ -27,7 +27,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-base",
+        "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 15,
         "background": "#1a1a1a",
