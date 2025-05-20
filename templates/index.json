@@ -9,6 +9,40 @@
  */
 {
   "sections": {
+    "video_nXAAdn": {
+      "type": "video",
+      "blocks": {
+        "heading_nkAXVX": {
+          "type": "heading",
+          "settings": {
+            "text": "LUXURY MADE CONSCIOUS",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_FAdQtK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use video to showcase product features or to create a unique atmosphere on your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nkAXVX",
+        "richtext_FAdQtK"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/hero video.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 15
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -876,6 +910,7 @@
     }
   },
   "order": [
+    "video_nXAAdn",
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
